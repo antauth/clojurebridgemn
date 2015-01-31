@@ -1,6 +1,6 @@
 # tempwebsite
 
-FIXME
+This is a temporary website for ClojureBridge MN.
 
 ## Prerequisites
 
